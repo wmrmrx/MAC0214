@@ -6,4 +6,8 @@
 
 [AtCoder Beginner Contest 262](https://atcoder.jp/contests/abc262): 2h
 
-# Total: 2h
+## 25/08 - 2h
+
+[AtCoder Beginner Contest 263](https://atcoder.jp/contests/abc263): 2h
+
+# Total: 6h
