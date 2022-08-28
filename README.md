@@ -10,4 +10,8 @@
 
 [AtCoder Beginner Contest 263](https://atcoder.jp/contests/abc263): 2h
 
-# Total: 6h
+## 27/09 - 5h
+
+[SWERC 2016](https://codeforces.com/gym/101174): 5h
+
+# Total: 11h
