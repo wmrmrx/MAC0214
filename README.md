@@ -17,7 +17,17 @@
 ## 29/08 - 2h
 [AtCoder Beginner Contest 266](https://atcoder.jp/contests/abc266): 2h
 
-## 03/09 - 5h
+## 01/09 - 5h
 [Egyptian Collegiate Programming Contest 2017](https://codeforces.com/gym/101840): 5h
 
-# Total: 18h
+## 03/09 - 5h
+[SWERC 2017](https://codeforces.com/gym/101635): 5h
+
+## 04/09 - 5h
+[COMPFEST 2014](https://codeforces.com/contest/1725): 5h
+
+# Total: 28h
+
+## Individual: 8h
+
+## Time: 20h
