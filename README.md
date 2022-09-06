@@ -29,8 +29,10 @@
 ## 06/09 - 2h
 [Codeforces Round 819](https://codeforces.com/contest/1726): 2h
 
-# Total: 30h
+[Codeforces Round 818](https://codeforces.com/contest/1717): 2h
 
-## Individual: 10h
+# Total: 32h
+
+## Individual: 12h
 
 ## Time: 20h
