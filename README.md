@@ -26,13 +26,17 @@
 ## 04/09 - 5h
 [COMPFEST 2014](https://codeforces.com/contest/1725): 5h
 
-## 06/09 - 2h
+## 06/09 - 4h
 [Codeforces Round 819](https://codeforces.com/contest/1726): 2h
 
 [Codeforces Round 818](https://codeforces.com/contest/1717): 2h
 
-# Total: 32h
+## 08/09 - 2h
 
-## Individual: 12h
+[Educational Codeforces Round 135](https://codeforces.com/contests/1728): 2h
+
+# Total: 34h
+
+## Individual: 14h
 
 ## Time: 20h
