@@ -31,12 +31,14 @@
 
 [Codeforces Round 818](https://codeforces.com/contest/1717): 2h
 
-## 08/09 - 2h
+## 08/09 - 7h
 
 [Educational Codeforces Round 135](https://codeforces.com/contests/1728): 2h
 
-# Total: 34h
+[NEERC 2017](https://codeforces.com/gym/101630): 5h
+
+# Total: 39h
 
 ## Individual: 14h
 
-## Time: 20h
+## Time: 25h
