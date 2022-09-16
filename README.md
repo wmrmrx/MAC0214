@@ -37,8 +37,11 @@
 
 [NEERC 2017](https://codeforces.com/gym/101630): 5h
 
-# Total: 39h
+## 15/09 - 5h
+[(DCPC + TCPC + BCPC) 2022](https://codeforces.com/gym/103828/my)
+
+# Total: 44h
 
 ## Individual: 14h
 
-## Time: 25h
+## Time: 30h
