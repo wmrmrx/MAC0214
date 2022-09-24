@@ -43,8 +43,11 @@
 ## 19/09 - 2h
 [Codeforces Round #821 (Div. 2)](https://codeforces.com/contest/1733)
 
-# Total: 44h
+## 24/09 - 3h;
+[Meta Hacker Cup 2022 Round 2](https://www.facebook.com/codingcompetitions/hacker-cup/2022/round-2)
 
-## Individual: 16h
+# Total: 47h
+
+## Individual: 19h
 
 ## Time: 30h
