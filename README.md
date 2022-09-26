@@ -43,14 +43,17 @@
 ## 19/09 - 2h
 [Codeforces Round #821 (Div. 2)](https://codeforces.com/contest/1733)
 
+## 22/09 - 2h
+[2021 ICPC Southeastern Europe Regional Contest](https://codeforces.com/gym/103438)
+
 ## 24/09 - 3h
 [Meta Hacker Cup 2022 Round 2](https://www.facebook.com/codingcompetitions/hacker-cup/2022/round-2)
 
 ## 25/09 - 2h
 [Codeforces Round #823 (Div. 2)](https://codeforces.com/contest/1730)
 
-# Total: 49h
+# Total: 53h
 
-## Individual: 21h
+## Individual: 23h
 
 ## Time: 30h
