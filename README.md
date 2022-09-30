@@ -54,11 +54,14 @@
 ## 25/09 - 2h
 [Codeforces Round #823 (Div. 2)](https://codeforces.com/contest/1730)
 
-## 29/09- 5h
+## 29/09 - 5h
 [Argentinian Programming Tournament (TAP) 2019](https://codeforces.com/group/YjFmW2O15Q/contests)
 
-# Total: 63h
+## 30/09 - 2h
+[Codeforces Global Round 22](https://codeforces.com/contest/1738)
 
-## Individual: 23h
+# Total: 65h
+
+## Individual: 25h
 
 ## Time: 40h
