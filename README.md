@@ -60,8 +60,11 @@
 ## 30/09 - 2h
 [Codeforces Global Round 22](https://codeforces.com/contest/1738)
 
-# Total: 65h
+## 02/09 - 2h
+[Codeforces Round #824 (Div. 2)](https://codeforces.com/contest/1735)
 
-## Individual: 25h
+# Total: 67h
+
+## Individual: 27h
 
 ## Time: 40h
