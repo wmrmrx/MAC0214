@@ -60,11 +60,14 @@
 ## 30/09 - 2h
 [Codeforces Global Round 22](https://codeforces.com/contest/1738)
 
+## 01/09 - 5h
+[SWERC 2015](https://codeforces.com/gym/101128)
+
 ## 02/09 - 2h
 [Codeforces Round #824 (Div. 2)](https://codeforces.com/contest/1735)
 
-# Total: 67h
+# Total: 72h
 
 ## Individual: 27h
 
-## Time: 40h
+## Time: 45h
