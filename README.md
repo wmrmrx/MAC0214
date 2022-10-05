@@ -66,8 +66,11 @@
 ## 02/09 - 2h
 [Codeforces Round #824 (Div. 2)](https://codeforces.com/contest/1735)
 
-# Total: 72h
+## 04/09 - 5h
+[XXII Open Cup. Grand Prix of Seoul](https://codeforces.com/gym/103855)
+
+# Total: 77h
 
 ## Individual: 27h
 
-## Time: 45h
+## Time: 50h
