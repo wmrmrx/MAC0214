@@ -69,14 +69,17 @@
 ## 04/09 - 5h
 [XXII Open Cup. Grand Prix of Seoul](https://codeforces.com/gym/103855)
 
+## 08/09 - 5h
+[2022-2023 ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/103960)
+
 ## 10/09 - 2h
 [Codeforces Round #825 (Div. 2)](https://codeforces.com/contest/1736)
 
 ## 15/09 - 2h
 [Desafio de Programação Tempo Energia - UFABC 2022](https://codeforces.com/gym/103972)
 
-# Total: 81h
+# Total: 86h
 
 ## Individual: 31h
 
-## Time: 50h
+## Time: 55h
