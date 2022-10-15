@@ -49,7 +49,7 @@
 ## 24/09 - 8h
 [Meta Hacker Cup 2022 Round 2](https://www.facebook.com/codingcompetitions/hacker-cup/2022/round-2)
 
-[Maratona Fase Zero]()
+[Maratona Fase Zero](https://www.beecrowd.com.br/judge/en/contests/view/683)
 
 ## 25/09 - 2h
 [Codeforces Round #823 (Div. 2)](https://codeforces.com/contest/1730)
@@ -72,8 +72,11 @@
 ## 10/09 - 2h
 [Codeforces Round #825 (Div. 2)](https://codeforces.com/contest/1736)
 
-# Total: 79h
+## 15/09 - 2h
+[Desafio de Programação Tempo Energia - UFABC 2022](https://codeforces.com/gym/103972)
 
-## Individual: 29h
+# Total: 81h
+
+## Individual: 31h
 
 ## Time: 50h
