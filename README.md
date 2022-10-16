@@ -75,7 +75,7 @@
 ## 10/09 - 2h
 [Codeforces Round #825 (Div. 2)](https://codeforces.com/contest/1736)
 
-## 15/09 - 2h
+## 15/09 - 4h
 [Desafio de Programação Tempo Energia - UFABC 2022](https://codeforces.com/gym/103972)
 
 [AtCoder Beginner Contest 272](https://atcoder.jp/contests/abc272)
