@@ -78,8 +78,11 @@
 ## 15/09 - 2h
 [Desafio de Programação Tempo Energia - UFABC 2022](https://codeforces.com/gym/103972)
 
-# Total: 86h
+[AtCoder Beginner Contest 272](https://atcoder.jp/contests/abc272)
+- Problema E foi lido errado. Código resolve o problema de achar o menor não negativo **contido** em A.
 
-## Individual: 31h
+# Total: 88h
+
+## Individual: 33h
 
 ## Time: 55h
