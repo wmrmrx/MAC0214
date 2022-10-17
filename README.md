@@ -81,8 +81,11 @@
 [AtCoder Beginner Contest 272](https://atcoder.jp/contests/abc272)
 - Problema E foi lido errado. Código resolve o problema de achar o menor não negativo **contido** em A.
 
-# Total: 88h
+## 17/09 - 2h
+[Educational Codeforces Round 137 (Rated for Div. 2)](https://codeforces.com/contest/1743)
 
-## Individual: 33h
+# Total: 90h
+
+## Individual: 35h
 
 ## Time: 55h
