@@ -84,11 +84,13 @@
 ## 17/09 - 2h
 [Educational Codeforces Round 137 (Rated for Div. 2)](https://codeforces.com/contest/1743)
 
-## 20/09 - 2h
+## 20/09 - 4h
 [Educational Codeforces Round 138 (Rated for Div. 2)](https://codeforces.com/contest/1749)
 
-# Total: 92h
+[AtCoder Beginner Contest 273](https://atcoder.jp/contests/abc273)
 
-## Individual: 37h
+# Total: 94h
+
+## Individual: 39h
 
 ## Time: 55h
