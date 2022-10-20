@@ -84,8 +84,11 @@
 ## 17/09 - 2h
 [Educational Codeforces Round 137 (Rated for Div. 2)](https://codeforces.com/contest/1743)
 
-# Total: 90h
+## 20/09 - 2h
+[Educational Codeforces Round 138 (Rated for Div. 2)](https://codeforces.com/contest/1749)
 
-## Individual: 35h
+# Total: 92h
+
+## Individual: 37h
 
 ## Time: 55h
