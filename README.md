@@ -95,8 +95,12 @@
 ## 23/09 - 2h
 [Codeforces Round #829 (Div. 2)](https://codeforces.com/contest/1754)
 
-# Total: 98h
+[Codeforces Round #830 (Div. 2)](https://codeforces.com/contest/1732)
 
-## Individual: 43h
+- 100 horas atingidas 🥳
+
+# Total: 100h
+
+## Individual: 45h
 
 ## Time: 55h
