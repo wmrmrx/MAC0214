@@ -99,8 +99,11 @@
 
 - 100 horas atingidas 🥳
 
-# Total: 100h
+## 29/09 - 2h
+[Codeforces Round #831 (Div. 1 + Div. 2)](https://codeforces.com/contest/1740)
 
-## Individual: 45h
+# Total: 102h
+
+## Individual: 47h
 
 ## Time: 55h
