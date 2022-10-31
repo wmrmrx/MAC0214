@@ -102,8 +102,11 @@
 ## 29/09 - 2h
 [Codeforces Round #831 (Div. 1 + Div. 2)](https://codeforces.com/contest/1740)
 
-# Total: 102h
+## 31/09- 2h
+[AtCoder Beginner Contest 275](https://atcoder.jp/contests/abc275)
 
-## Individual: 47h
+# Total: 104h
+
+## Individual: 49h
 
 ## Time: 55h
