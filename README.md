@@ -105,8 +105,11 @@
 ## 31/09- 2h
 [AtCoder Beginner Contest 275](https://atcoder.jp/contests/abc275)
 
-# Total: 104h
+## 03/10 - 2h
+[Educational Codeforces Round 68](https://codeforces.com/contest/1194)
 
-## Individual: 49h
+# Total: 106h
+
+## Individual: 51h
 
 ## Time: 55h
