@@ -105,11 +105,14 @@
 ## 31/09- 2h
 [AtCoder Beginner Contest 275](https://atcoder.jp/contests/abc275)
 
+## 01/10 - 5h
+[2022-2023 ICPC NERC (NEERC)](https://codeforces.com/gym/104012)
+
 ## 03/10 - 2h
 [Educational Codeforces Round 68](https://codeforces.com/contest/1194)
 
-# Total: 106h
+# Total: 111h
 
 ## Individual: 51h
 
-## Time: 55h
+## Time: 60h
