@@ -114,8 +114,11 @@
 ## 06/10 - 2h
 [CodeTON Round 3 (Div. 1 + Div. 2, Rated, Prizes!)](https://codeforces.com/contest/1750)
 
-# Total: 113h
+## 07/10 - 2h
+[AtCoder Beginner Contest 270](https://atcoder.jp/contests/abc270)
 
-## Individual: 53h
+# Total: 115h
+
+## Individual: 55h
 
 ## Time: 60h
