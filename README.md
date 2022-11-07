@@ -111,8 +111,11 @@
 ## 03/10 - 2h
 [Educational Codeforces Round 68](https://codeforces.com/contest/1194)
 
-# Total: 111h
+## 06/10 - 2h
+[CodeTON Round 3 (Div. 1 + Div. 2, Rated, Prizes!)](https://codeforces.com/contest/1750)
 
-## Individual: 51h
+# Total: 113h
+
+## Individual: 53h
 
 ## Time: 60h
