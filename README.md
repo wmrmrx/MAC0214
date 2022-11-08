@@ -116,9 +116,10 @@
 
 ## 07/10 - 2h
 [AtCoder Beginner Contest 270](https://atcoder.jp/contests/abc270)
+[AtCoder Beginner Contest 269](https://atcoder.jp/contests/abc269)
 
-# Total: 115h
+# Total: 117h
 
-## Individual: 55h
+## Individual: 57h
 
 ## Time: 60h
