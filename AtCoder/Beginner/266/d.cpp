@@ -1,47 +1,38 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#define int long long
+#define int int64_t
 #define all(v) v.begin(), v.end()
 
-void dbg_out(){cerr<<endl;}
+void dbg_out() {cerr << endl; }
 template <typename H, typename... T>
-void dbg_out(H h, T... t){cerr<<' '<<h;dbg_out(t...);}
-#define dbg(...) {cerr<<#__VA_ARGS__<<':';dbg_out(__VA_ARGS__);}
+void dbg_out(H h, T... t) { cerr << h << ' '; dbg_out(t...); }
+#define dbg(...){cerr<<#__VA_ARGS__<<':'; dbg_out(__VA_ARGS__);}
 
-constexpr int MAX = 100'001, INF = 1e17;
-
-int dp[MAX][5];
-
-bool ok(int i) {
-	return 0 <= i && i < 5;
-}
+constexpr int INF = 1e18;
 
 void solve() {
 	int n; cin >> n;
-	vector<array<int, 3>> ord(n);
-	for(auto &[t, x, a]: ord) cin >> t >> x >> a;
-	sort(all(ord)); reverse(all(ord));
-	auto cur = dp[0];
-	fill_n(cur, 5, -INF);
+	vector<array<int, 3>> snu(n);
+	for(auto &[t, x, a]: snu) cin >> t >> x >> a;
+	sort(snu.rbegin(), snu.rend());
+
+	vector<int> cur(5, -INF), ant(5, -INF);
 	cur[0] = 0;
-	for(int t=1;!ord.empty();t++) {
-		cur = dp[t];
-		auto ant = dp[t-1];
-		fill_n(cur, 5, -INF);
-		for(int x=0;x<5;x++) {
-			for(int k=-1;k<=1;k++) if(ok(x+k)) {
-				cur[x] = max(cur[x], ant[x+k]);
-			}
+	for(int t=1;!snu.empty();t++) {
+		swap(cur, ant);
+		cur[0] = max(ant[0], ant[1]);		
+		for(int i=1;i<4;i++) {
+			cur[i] = max({ant[i-1], ant[i], ant[i+1]});
 		}
-		while(!ord.empty() && ord.back()[0] == t) {
-			cur[ord.back()[1]] += ord.back()[2];
-			ord.pop_back();
+		cur[4] = max(ant[3], ant[4]);		
+		while(!snu.empty() && snu.back()[0] == t) {
+			auto [_t, x, a] = snu.back();
+			snu.pop_back();
+			cur[x] += a;
 		}
-		//dbg(t, cur[0], cur[1] , cur[2], cur[3], cur[4]);
 	}
-	cout << *max_element(cur, cur+5) << endl;
-	
+	cout << *max_element(all(cur)) << endl;
 }
 
 signed main() {
