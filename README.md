@@ -122,8 +122,11 @@
 [AtCoder Beginner Contest 267](https://atcoder.jp/contests/abc267)
 [AtCoder Beginner Contest 266](https://atcoder.jp/contests/abc266)
 
-# Total: 121h
+## 10/10 - 2h
+[Codeforces Round #832](https://codeforces.com/contest/1747)
 
-## Individual: 61h
+# Total: 123h
+
+## Individual: 63h
 
 ## Time: 60h
