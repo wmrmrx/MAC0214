@@ -129,8 +129,13 @@
 ## 12/10 - 2h
 [Codeforces Round #833](https://codeforces.com/contest/1748)
 
-# Total: 127h
+## 16/10 - 4h
+[Codeforces Round #697](https://codeforces.com/contest/1475)
+[AtCoder Beginner Contest 277](https://atcoder.jp/contests/abc277)
 
-## Individual: 67h
+
+# Total: 131h
+
+## Individual: 71h
 
 ## Time: 60h
