@@ -136,8 +136,11 @@
 ## 19/10 - 2h
 [AtCoder Beginner Contest 278](https://atcoder.jp/contests/abc278)
 
-# Total: 133h
+## 22/10 - 5h
+[2021-2022 ICPC Northwestern European Regional Programming Contest (NWERC 2021)](https://codeforces.com/gym/104064)
+
+# Total: 138h
 
 ## Individual: 73h
 
-## Time: 60h
+## Time: 65h
