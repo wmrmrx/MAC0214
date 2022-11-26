@@ -145,8 +145,8 @@
 ## 26/11 - 2h
 [Codeforces Global Round 24](https://codeforces.com/contest/1764)
 
-# Total: 142h
+# Total: 143h
 
-## Individual: 77h
+## Individual: 73h
 
-## Time: 65h
+## Time: 70h
