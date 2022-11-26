@@ -60,89 +60,89 @@
 ## 30/09 - 2h
 [Codeforces Global Round 22](https://codeforces.com/contest/1738)
 
-## 01/09 - 5h
+## 01/10 - 5h
 [SWERC 2015](https://codeforces.com/gym/101128)
 
-## 02/09 - 2h
+## 02/10 - 2h
 [Codeforces Round #824 (Div. 2)](https://codeforces.com/contest/1735)
 
-## 04/09 - 5h
+## 04/10 - 5h
 [XXII Open Cup. Grand Prix of Seoul](https://codeforces.com/gym/103855)
 
-## 08/09 - 5h
+## 08/10 - 5h
 [2022-2023 ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/103960)
 
-## 10/09 - 2h
+## 10/10 - 2h
 [Codeforces Round #825 (Div. 2)](https://codeforces.com/contest/1736)
 
-## 15/09 - 4h
+## 15/10 - 4h
 [Desafio de Programação Tempo Energia - UFABC 2022](https://codeforces.com/gym/103972)
 
 [AtCoder Beginner Contest 272](https://atcoder.jp/contests/abc272)
 - Problema E foi lido errado. Código resolve o problema de achar o menor não negativo **contido** em A.
 
-## 17/09 - 2h
+## 17/10 - 2h
 [Educational Codeforces Round 137 (Rated for Div. 2)](https://codeforces.com/contest/1743)
 
-## 20/09 - 4h
+## 20/10 - 4h
 [Educational Codeforces Round 138 (Rated for Div. 2)](https://codeforces.com/contest/1749)
 
-[AtCoder Beginner Contest 273](https://atcoder.jp/contests/abc273)
+[AtCod10 Beginner Contest 273](https://atcoder.jp/contests/abc273)
 
-## 22/09 - 2h
+## 22/10 - 2h
 [AtCoder Beginner Contest 274](https://atcoder.jp/contests/abc274)
 
-## 23/09 - 2h
+## 23/10 - 2h
 [Codeforces Round #829 (Div. 2)](https://codeforces.com/contest/1754)
 
 [Codeforces Round #830 (Div. 2)](https://codeforces.com/contest/1732)
 
 - 100 horas atingidas 🥳
 
-## 29/09 - 2h
+## 29/10 - 2h
 [Codeforces Round #831 (Div. 1 + Div. 2)](https://codeforces.com/contest/1740)
 
-## 31/09- 2h
+## 31/10- 2h
 [AtCoder Beginner Contest 275](https://atcoder.jp/contests/abc275)
 
-## 01/10 - 5h
+## 01/11 - 5h
 [2022-2023 ICPC NERC (NEERC)](https://codeforces.com/gym/104012)
 
-## 03/10 - 2h
+## 03/11 - 2h
 [Educational Codeforces Round 68](https://codeforces.com/contest/1194)
 
-## 06/10 - 2h
+## 06/11 - 2h
 [CodeTON Round 3 (Div. 1 + Div. 2, Rated, Prizes!)](https://codeforces.com/contest/1750)
 
-## 07/10 - 2h
+## 07/11 - 2h
 [AtCoder Beginner Contest 270](https://atcoder.jp/contests/abc270)
 [AtCoder Beginner Contest 269](https://atcoder.jp/contests/abc269)
 
-## 09/10 - 2h
+## 09/11 - 2h
 [AtCoder Beginner Contest 267](https://atcoder.jp/contests/abc267)
 [AtCoder Beginner Contest 266](https://atcoder.jp/contests/abc266)
 
-## 10/10 - 2h
+## 10/11 - 2h
 [Codeforces Round #832](https://codeforces.com/contest/1747)
 [AtCoder Beginner Contest 276](https://atcoder.jp/contests/abc276)
 
-## 12/10 - 2h
+## 12/11 - 2h
 [Codeforces Round #833](https://codeforces.com/contest/1748)
 
-## 16/10 - 4h
+## 16/11 - 4h
 [Codeforces Round #697](https://codeforces.com/contest/1475)
 [AtCoder Beginner Contest 277](https://atcoder.jp/contests/abc277)
 
-## 19/10 - 2h
+## 19/11 - 2h
 [AtCoder Beginner Contest 278](https://atcoder.jp/contests/abc278)
 
-## 22/10 - 5h
+## 22/11 - 5h
 [2021-2022 ICPC Northwestern European Regional Programming Contest (NWERC 2021)](https://codeforces.com/gym/104064)
 
-## 23/10 - 2h
+## 23/11 - 2h
 [AtCoder Beginner Contest 258](https://atcoder.jp/contests/abc258)
 
-## 26/10 - 2h
+## 26/11 - 2h
 [Codeforces Global Round 24](https://codeforces.com/contest/1764)
 
 # Total: 142h
