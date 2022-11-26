@@ -43,7 +43,7 @@
 ## 19/09 - 2h
 [Codeforces Round #821 (Div. 2)](https://codeforces.com/contest/1733)
 
-## 22/09 - 2h
+## 22/09 - 5h
 [2021 ICPC Southeastern Europe Regional Contest](https://codeforces.com/gym/103438)
 
 ## 24/09 - 8h
@@ -92,7 +92,7 @@
 ## 22/10 - 2h
 [AtCoder Beginner Contest 274](https://atcoder.jp/contests/abc274)
 
-## 23/10 - 2h
+## 23/10 - 4h
 [Codeforces Round #829 (Div. 2)](https://codeforces.com/contest/1754)
 
 [Codeforces Round #830 (Div. 2)](https://codeforces.com/contest/1732)
@@ -114,15 +114,15 @@
 ## 06/11 - 2h
 [CodeTON Round 3 (Div. 1 + Div. 2, Rated, Prizes!)](https://codeforces.com/contest/1750)
 
-## 07/11 - 2h
+## 07/11 - 4h
 [AtCoder Beginner Contest 270](https://atcoder.jp/contests/abc270)
 [AtCoder Beginner Contest 269](https://atcoder.jp/contests/abc269)
 
-## 09/11 - 2h
+## 09/11 - 4h
 [AtCoder Beginner Contest 267](https://atcoder.jp/contests/abc267)
 [AtCoder Beginner Contest 266](https://atcoder.jp/contests/abc266)
 
-## 10/11 - 2h
+## 10/11 - 4h
 [Codeforces Round #832](https://codeforces.com/contest/1747)
 [AtCoder Beginner Contest 276](https://atcoder.jp/contests/abc276)
 
