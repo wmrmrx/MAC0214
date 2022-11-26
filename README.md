@@ -2,40 +2,40 @@
 
 ## 24/08 - 4h
 
-[AtCoder Beginner Contest 261](https://atcoder.jp/contests/abc261): 2h
+[AtCoder Beginner Contest 261](https://atcoder.jp/contests/abc261)
 
-[AtCoder Beginner Contest 262](https://atcoder.jp/contests/abc262): 2h
+[AtCoder Beginner Contest 262](https://atcoder.jp/contests/abc262)
 
 ## 25/08 - 2h
 
-[AtCoder Beginner Contest 263](https://atcoder.jp/contests/abc263): 2h
+[AtCoder Beginner Contest 263](https://atcoder.jp/contests/abc263)
 
 ## 27/08 - 5h
 
-[SWERC 2016](https://codeforces.com/gym/101174): 5h
+[SWERC 2016](https://codeforces.com/gym/101174)
 
 ## 29/08 - 2h
-[AtCoder Beginner Contest 266](https://atcoder.jp/contests/abc266): 2h
+[AtCoder Beginner Contest 266](https://atcoder.jp/contests/abc266)
 
 ## 01/09 - 5h
-[Egyptian Collegiate Programming Contest 2017](https://codeforces.com/gym/101840): 5h
+[Egyptian Collegiate Programming Contest 2017](https://codeforces.com/gym/101840)
 
 ## 03/09 - 5h
-[SWERC 2017](https://codeforces.com/gym/101635): 5h
+[SWERC 2017](https://codeforces.com/gym/101635)
 
 ## 04/09 - 5h
-[COMPFEST 2014](https://codeforces.com/contest/1725): 5h
+[COMPFEST 2014](https://codeforces.com/contest/1725)
 
 ## 06/09 - 4h
-[Codeforces Round 819](https://codeforces.com/contest/1726): 2h
+[Codeforces Round 819](https://codeforces.com/contest/1726)
 
-[Codeforces Round 818](https://codeforces.com/contest/1717): 2h
+[Codeforces Round 818](https://codeforces.com/contest/1717)
 
 ## 08/09 - 7h
 
-[Educational Codeforces Round 135](https://codeforces.com/contests/1728): 2h
+[Educational Codeforces Round 135](https://codeforces.com/contests/1728)
 
-[NEERC 2017](https://codeforces.com/gym/101630): 5h
+[NEERC 2017](https://codeforces.com/gym/101630)
 
 ## 15/09 - 5h
 [(DCPC + TCPC + BCPC) 2022](https://codeforces.com/gym/103828)
@@ -145,8 +145,4 @@
 ## 26/11 - 2h
 [Codeforces Global Round 24](https://codeforces.com/contest/1764)
 
-# Total: 143h
-
-## Individual: 73h
-
-## Time: 70h
+# Total: 145h
