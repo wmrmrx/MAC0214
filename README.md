@@ -142,8 +142,11 @@
 ## 23/10 - 2h
 [AtCoder Beginner Contest 258](https://atcoder.jp/contests/abc258)
 
-# Total: 140h
+## 26/10 - 2h
+[Codeforces Global Round 24](https://codeforces.com/contest/1764)
 
-## Individual: 75h
+# Total: 142h
+
+## Individual: 77h
 
 ## Time: 65h
