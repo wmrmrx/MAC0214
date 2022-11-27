@@ -145,4 +145,7 @@
 ## 26/11 - 2h
 [Codeforces Global Round 24](https://codeforces.com/contest/1764)
 
-# Total: 145h
+## 27/11 - 5h
+[2022-2023 ICPC, NERC, Southern and Volga Russian Regional Contest](https://codeforces.com/contest/1765)
+
+# Total: 150h
