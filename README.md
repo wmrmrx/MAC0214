@@ -148,4 +148,7 @@
 ## 27/11 - 5h
 [2022-2023 ICPC, NERC, Southern and Volga Russian Regional Contest](https://codeforces.com/contest/1765)
 
-# Total: 150h
+## 09/12 - 5h
+[2022-2023 ICPC, NERC, Northern Eurasia Onsite](https://codeforces.com/contest/1773)
+
+# Total: 155h
