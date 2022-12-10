@@ -148,7 +148,10 @@
 ## 27/11 - 5h
 [2022-2023 ICPC, NERC, Southern and Volga Russian Regional Contest](https://codeforces.com/contest/1765)
 
-## 09/12 - 5h
+## 08/12 - 5h
 [2022-2023 ICPC, NERC, Northern Eurasia Onsite](https://codeforces.com/contest/1773)
 
-# Total: 155h
+## 10/12 - 5h
+[2017 Benelux Algorithm Programming Contest (BAPC 17)](https://codeforces.com/gym/101666)
+
+# Total: 160h
