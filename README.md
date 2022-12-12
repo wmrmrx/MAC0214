@@ -154,4 +154,7 @@
 ## 10/12 - 5h
 [2017 Benelux Algorithm Programming Contest (BAPC 17)](https://codeforces.com/gym/101666)
 
-# Total: 160h
+## 11/12 - 2h
+[Codeforces Round #837 (Div. 2)](https://codeforces.com/contest/1771)
+
+# Total: 162h
