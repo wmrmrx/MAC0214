@@ -160,4 +160,7 @@
 ## 12/12 - 2h
 [Educational Codeforces Round 139 (Rated for Div. 2)](https://codeforces.com/contest/1766)
 
-# Total: 164h
+## 16/12 - 2h
+[Educational Codeforces Round 140 (Rated for Div. 2)](https://codeforces.com/contest/1767)
+
+# Total: 166h
